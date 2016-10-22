@@ -1,2 +1,3 @@
 # hello-world
-Practice for using github
+
+Dan here, just learning how to use git for project management/research.
